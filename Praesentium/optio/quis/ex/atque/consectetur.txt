@@ -1,0 +1,8 @@
+{
+	"name": "Georganna Little",
+	"mail": "darlene.becker@yahoo.com",
+	"username": "jewess.adalynn",
+	"birthdate": "1978-12-26",
+	"address": "Unit 0341 Box 2457\nDPO AA 57822-1642",
+	"sex": "F"
+}
