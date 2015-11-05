@@ -1,8 +1,0 @@
-{
-	"name": "Eben Crona",
-	"birthdate": "2015-09-28",
-	"username": "greenholt.kirk",
-	"address": "696 Adams Drive Suite 418\nMcClurefurt, UT 97060",
-	"sex": "F",
-	"mail": "wmante@yahoo.com"
-}
