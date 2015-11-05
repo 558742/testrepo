@@ -1,8 +1,0 @@
-{
-	"mail": "qhuels@hotmail.com",
-	"address": "026 Treutel Extensions\nMollieberg, VA 72558-7004",
-	"username": "morar.vonetta",
-	"name": "Mrs. Anabel Oberbrunner",
-	"sex": "M",
-	"birthdate": "1998-11-07"
-}
