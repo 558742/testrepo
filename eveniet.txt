@@ -1,0 +1,8 @@
+{
+	"birthdate": "1991-09-14",
+	"mail": "carrie.mcclure@hotmail.com",
+	"username": "hudson.amon",
+	"name": "Sabrina Anderson",
+	"address": "23272 Ivey Gateway Apt. 019\nDockview, OK 42586-6515",
+	"sex": "M"
+}
