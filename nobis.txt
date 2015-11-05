@@ -1,0 +1,8 @@
+{
+	"mail": "west.sharman@hotmail.com",
+	"birthdate": "1982-09-12",
+	"sex": "F",
+	"name": "Miss Jenelle Grady PhD",
+	"username": "gaylon68",
+	"address": "828 Howell Alley Suite 950\nNorth Kellanshire, NM 48832"
+}
