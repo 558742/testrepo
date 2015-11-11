@@ -1,0 +1,8 @@
+{
+	"address": "661 Kristyn Green Suite 500\nSporertown, AS 59415-0338",
+	"sex": "M",
+	"mail": "odelia.koch@hotmail.com",
+	"username": "desi57",
+	"birthdate": "1970-01-11",
+	"name": "Edrie Hoeger DDS"
+}
