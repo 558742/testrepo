@@ -1,8 +1,0 @@
-{
-	"address": "06557 McGlynn Landing Suite 608\nLake Violet, ND 20677",
-	"username": "attilio.schultz",
-	"mail": "derrick30@yahoo.com",
-	"name": "Cathern Langosh DDS",
-	"sex": "M",
-	"birthdate": "1988-03-21"
-}
