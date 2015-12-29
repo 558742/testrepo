@@ -1,0 +1,8 @@
+{
+	"username": "thurston22",
+	"birthdate": "1996-12-17",
+	"address": "07703 Elfreda Crescent\nNew Janiemouth, MS 27780",
+	"name": "Mr. Vern Casper",
+	"mail": "abel.swift@gmail.com",
+	"sex": "F"
+}
