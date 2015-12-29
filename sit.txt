@@ -1,0 +1,8 @@
+{
+	"name": "Augustin Greenholt",
+	"username": "yyundt",
+	"address": "38221 Kovacek Parks Apt. 216\nEast Shaniceburgh, RI 42290-5771",
+	"sex": "F",
+	"birthdate": "2011-07-05",
+	"mail": "machelle.block@hotmail.com"
+}
